@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-ssdent.net	TRUE	/	FALSE	1999999999	PHPSESSID	bu94vr7ges7aeh1r5scsrf6mo8
-ssdent.net	TRUE	/	FALSE	1999999999	mobile	false
-ssdent.net	TRUE	/	FALSE	1999999999	user-agent	a46c089aa5634597cc265050ba58d8e1
-
