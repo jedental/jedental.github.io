@@ -2,11 +2,12 @@
 <html lang="ko">
 <head>
     <!-- 모바일일 경우 index_mobile.html을 참조하도록 -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <script type="text/javascript" language="JavaScript">
         var mobileKeyWords = new Array('iPhone', 'iPod', 'BlackBerry', 'Android', 'Windows CE', 'LG', 'MOT', 'SAMSUNG', 'SonyEricsson');
         for (var word in mobileKeyWords) {
             if (navigator.userAgent.match(mobileKeyWords[word]) != null) {
-                window.location.href = "index_mobile.html";
+                window.location.href = "mobile.html";
                 break;
             }
         }
