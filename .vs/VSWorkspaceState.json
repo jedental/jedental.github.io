@@ -1,9 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\common",
+    "\\common\\js",
+    "\\files",
+    "\\files\\attach",
+    "\\files\\faceOff",
+    "\\fonts.googleapis.com",
+    "\\fonts.googleapis.com\\earlyaccess",
     "\\layouts",
-    "\\layouts\\images"
+    "\\layouts\\css",
+    "\\layouts\\js"
   ],
-  "SelectedNode": "\\layouts\\images\\main_comment01.png",
+  "SelectedNode": "\\layouts\\js\\main4d2e.js",
   "PreviewInSolutionExplorer": false
 }
