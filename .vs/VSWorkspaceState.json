@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\files",
-    "\\files\\attach",
-    "\\files\\attach\\images",
-    "\\files\\attach\\images\\140",
-    "\\files\\attach\\images\\140\\140",
-    "\\files\\attach\\images\\142",
-    "\\files\\attach\\images\\142\\142",
-    "\\files\\attach\\images\\144",
-    "\\files\\attach\\images\\144\\144"
+    "\\addons",
+    "\\addons\\popup",
+    "\\addons\\popup\\images",
+    "\\addons\\resize_image",
+    "\\modules",
+    "\\modules\\editor",
+    "\\modules\\editor\\styles",
+    "\\modules\\page",
+    "\\modules\\page\\tpl",
+    "\\modules\\page\\tpl\\css"
   ],
   "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
