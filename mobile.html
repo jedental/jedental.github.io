@@ -109,6 +109,18 @@ var default_url = "index.html";
     <!-- CSS -->
     <!-- JS -->
     <script type="text/javascript" src="dapi.kakao.com/v2/maps/sdkbf30.json?appkey=ae0d856f04adb191e1bb2592e67ec7ae"></script>
+    <script>
+        // onload 이벤트
+        window.onload = function() {
+            setTimeout(function() {
+                window.scrollTo(0, 1);}, 100);
+        };
+
+        // addEventListener 이벤트
+        window.addEventListener('load', function(){
+            setTimeout(scrollTo, 1);
+        }, false);
+    </script>
     <!-- Layout -->
     <!-- Header
     ------------------------------------------------------>
