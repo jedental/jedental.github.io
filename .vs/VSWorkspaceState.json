@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\addons",
-    "\\addons\\popup",
-    "\\addons\\popup\\images",
     "\\addons\\resize_image",
+    "\\layouts\\images",
     "\\modules",
     "\\modules\\editor",
     "\\modules\\editor\\styles",
@@ -12,6 +11,6 @@
     "\\modules\\page\\tpl",
     "\\modules\\page\\tpl\\css"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\interior.html",
   "PreviewInSolutionExplorer": false
 }

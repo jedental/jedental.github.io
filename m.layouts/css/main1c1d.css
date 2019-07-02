@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 
 /* common */
 html, body {
@@ -59,30 +59,35 @@ html, body {
 /* header */
 header {
 	width: 100%;
-	height: -webkit-fit-content;
-	height: -moz-fit-content;
-	height: fit-content;
 	background-color: #fff;
 	position: fixed;
 	left: 0;
 	top: 0;
 	z-index: 10002;
 }
-header .logo {
-	width: 165px;
-	height: 62px;
-	margin: 0 auto;
-}
-header .logo a {
-	width: 100%;
-	height: 100%;
-	background: url(../img/logo2x.png) center center no-repeat;
-	background-size: 100%;
-}
+    header .logo {
+        width: 165px;
+        height: 62px;
+        margin: 0 auto;
+    }
+        header .logo a {
+            width: 100%;
+            height: 100%;
+            background: url(../img/logo2x.png) center center no-repeat;
+            background-size: 100%;
+        }
 header .hamburger,
 header .call {
 	position: absolute;
 	top: 50%;
+}
+header .kakaotalk {
+    position: absolute;
+    top: 50%;
+}
+header .reservation {
+    position: absolute;
+    top: 50%;
 }
 /* hamburger */
 .hamburger,
@@ -124,11 +129,25 @@ header .call {
 }
 
 header .call {
-	right: 20px;
+	left: 70px;
 	margin-top: -14px;
 	width: 27px;
 	height: 27px;
 	background: url(../img/call.png) 0 0/contain no-repeat;
+}
+header .kakaotalk {
+    right: 10px;
+    margin-top: -25px;
+    width: 50px;
+    height: 50px;
+    background: url(../img/kakaotalk.png) 0 0/contain no-repeat;
+}
+header .reservation {
+    right: 70px;
+    margin-top: -25px;
+    width: 50px;
+    height: 50px;
+    background: url(../img/reservation.png) 0 0/contain no-repeat;
 }
 header.scroll {
 	border-bottom: 1px solid #959595;
@@ -473,10 +492,23 @@ footer .copyright {
         top:49%;
     }
 	header .call {
+        left: 100px;
 		margin-top: -26px;
 		width: 52px;
 		height: 52px;
 	}
+    header .kakaotalk {
+        right: 100px;
+        margin-top: -26px;
+        width: 52px;
+        height: 52px;
+    }
+    header .reservation {
+        right: 20px;
+        margin-top: -26px;
+        width: 52px;
+        height: 52px;
+    }
 
 	/* nav */
 	nav {
