@@ -3,7 +3,6 @@
     "",
     "\\addons",
     "\\addons\\resize_image",
-    "\\layouts\\images",
     "\\modules",
     "\\modules\\editor",
     "\\modules\\editor\\styles",
@@ -11,6 +10,6 @@
     "\\modules\\page\\tpl",
     "\\modules\\page\\tpl\\css"
   ],
-  "SelectedNode": "\\interior.html",
+  "SelectedNode": "\\mobile.html",
   "PreviewInSolutionExplorer": false
 }
