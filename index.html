@@ -10,20 +10,16 @@
     <!-- 모바일 페이지 알림 -->
     <link rel="alternate" media="only screen and (max-width: 640px)" href="https://jedent.com/mobile.html">
     <!-- 모바일일 경우 index_mobile.html을 참조하도록 -->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <!--<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <script type="text/javascript" language="JavaScript">
         var mobileKeyWords = new Array('iPhone', 'iPod', 'BlackBerry', 'Android', 'Windows CE', 'LG', 'MOT', 'SAMSUNG', 'SonyEricsson');
         for (var word in mobileKeyWords) {
             if (navigator.userAgent.match(mobileKeyWords[word]) != null) {
-                Response.Clear();
-                Response.Status = 301;
-                Response.AddHeader("Location", "https://jedent.com/mobile.html");
-                Response.Flush();
-                Response.End();
+                window.location.href = "https://jedent.com/mobile.html";
+                break;
             }
-            break;
         }
-    </script>
+    </script>-->
     <!-- META -->
     <meta charset="utf-8">
     <meta name="Generator" content="XpressEngine">
