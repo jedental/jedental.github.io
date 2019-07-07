@@ -15,9 +15,13 @@
         var mobileKeyWords = new Array('iPhone', 'iPod', 'BlackBerry', 'Android', 'Windows CE', 'LG', 'MOT', 'SAMSUNG', 'SonyEricsson');
         for (var word in mobileKeyWords) {
             if (navigator.userAgent.match(mobileKeyWords[word]) != null) {
-                window.location.href = "https://jedent.com/mobile.html";
-                break;
+                Response.Clear();
+                Response.Status = 301;
+                Response.AddHeader("Location", "https://jedent.com/mobile.html");
+                Response.Flush();
+                Response.End();
             }
+            break;
         }
     </script>
     <!-- META -->
