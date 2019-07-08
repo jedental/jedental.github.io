@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 100;
+  src: url(http://fonts.gstatic.com/s/notosanskr/v11/Pby6FmXiEBPT4ITbgNA5CgmOsk7vyJQ-u28z.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 300;
+  src: url(http://fonts.gstatic.com/s/notosanskr/v11/Pby7FmXiEBPT4ITbgNA5CgmOelz477ISk2U7zg.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/notosanskr/v11/PbykFmXiEBPT4ITbgNA5CgmG0X7uwpAcuQ.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  src: url(http://fonts.gstatic.com/s/notosanskr/v11/Pby7FmXiEBPT4ITbgNA5CgmOIl3477ISk2U7zg.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://fonts.gstatic.com/s/notosanskr/v11/Pby7FmXiEBPT4ITbgNA5CgmOalv477ISk2U7zg.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 900;
+  src: url(http://fonts.gstatic.com/s/notosanskr/v11/Pby7FmXiEBPT4ITbgNA5CgmOUln477ISk2U7zg.otf) format('opentype');
+}

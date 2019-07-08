@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap : https://www.jedent.com/sitemap.xml
+Sitemap : https://jedent.com/sitemap.xml
