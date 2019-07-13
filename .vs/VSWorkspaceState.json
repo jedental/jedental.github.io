@@ -1,15 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\addons",
-    "\\addons\\resize_image",
-    "\\modules",
-    "\\modules\\editor",
-    "\\modules\\editor\\styles",
-    "\\modules\\page",
-    "\\modules\\page\\tpl",
-    "\\modules\\page\\tpl\\css"
+    "\\m"
   ],
-  "SelectedNode": "\\googleaa07fce2564848d0.html",
+  "SelectedNode": "\\m\\.well-known",
   "PreviewInSolutionExplorer": false
 }
