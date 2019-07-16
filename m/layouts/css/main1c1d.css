@@ -544,3 +544,21 @@ footer .copyright {
     
     
 }
+
+/*----------------swiper---------------*/
+.swiper-container {
+    top: 10px;
+    width: 100%;
+    height: 400px;
+}
+
+.swiper-contents {
+    text-align: left;
+    align-items: center;
+    margin: 10px 10px 10px 10px;
+}
+
+.swiper-slide img {
+    max-width: 100%;
+    margin-bottom: 10px;
+}
