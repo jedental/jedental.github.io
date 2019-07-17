@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\m"
+    "\\layouts",
+    "\\layouts\\img",
+    "\\m",
+    "\\m\\layouts",
+    "\\m\\layouts\\css",
+    "\\m\\layouts\\js"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\m\\layouts\\js\\main7b90.js",
   "PreviewInSolutionExplorer": false
 }
