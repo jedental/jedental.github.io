@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\layouts",
-    "\\layouts\\img",
+    "\\layouts\\css",
+    "\\layouts\\fonts",
+    "\\layouts\\images\\blog",
     "\\m",
     "\\m\\layouts",
     "\\m\\layouts\\css",
-    "\\m\\layouts\\js"
+    "\\m\\layouts\\image",
+    "\\m\\layouts\\image\\blog"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\m\\layouts\\css\\reset.css",
   "PreviewInSolutionExplorer": false
 }
