@@ -3,14 +3,14 @@
     "",
     "\\layouts",
     "\\layouts\\css",
-    "\\layouts\\fonts",
-    "\\layouts\\images\\blog",
+    "\\layouts\\js",
     "\\m",
-    "\\m\\layouts",
-    "\\m\\layouts\\css",
-    "\\m\\layouts\\image",
-    "\\m\\layouts\\image\\blog"
+    "\\m\\common",
+    "\\m\\common\\css",
+    "\\m\\files",
+    "\\m\\files\\faceOff",
+    "\\m\\layouts"
   ],
-  "SelectedNode": "\\m\\layouts\\css\\reset.css",
+  "SelectedNode": "\\layouts\\css\\main.css",
   "PreviewInSolutionExplorer": false
 }

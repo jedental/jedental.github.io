@@ -129,22 +129,22 @@ header .reservation {
 }
 
 header .call {
-	right: 20px;
+	left: 100px;
 	margin-top: -14px;
 	width: 27px;
 	height: 27px;
 	background: url(../image/call.png) 0 0/contain no-repeat;
 }
 header .kakaotalk {
-    right: 10px;
-    margin-top: 50px;
+    margin-right: 100px;
+    top: -50px;
     width: 50px;
     height: 50px;
     background: url(../image/kakaotalk.png) 0 0/contain no-repeat;
 }
 header .reservation {
-    right: 10px;
-    margin-top: 120px;
+    margin-right: 10px;
+    top: -130px;
     width: 50px;
     height: 50px;
     background: url(../image/reservation.png) 0 0/contain no-repeat;
@@ -234,7 +234,7 @@ nav.toggle {left: 0;}
 	right: 10px;
 	background: url(../image/controls.png) no-repeat -32px 0;
 }
-.bxslider-h li{height: 318px; background-size:cover;}
+.bxslider-h li{height: 532px; background-size:cover;}
 .m_slider01{background: url(../image/main_slider_01.jpg)no-repeat center center;}
 .m_slider02{background: url(../image/main_slider_02.jpg)no-repeat center center;}
 .m_slider03{background: url(../image/main_slider_03.jpg)no-repeat center center;}
