@@ -12,7 +12,7 @@
     font-family: 'NanumBarun';
     src: url('../fonts/NanumBarunGothicLight.eot');
     src: url('../fonts/NanumBarunGothicLight.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/NanumBarunGothicLight.html') format('woff2'),
+        url('../fonts/NanumBarunGothicLight.woff2') format('woff2'),
         url('../fonts/NanumBarunGothicLight.woff') format('woff');
     font-weight: 300;
     font-style: normal;
@@ -22,7 +22,7 @@
     font-family: 'NanumBarun';
     src: url('../fonts/NanumBarunGothic.eot');
     src: url('../fonts/NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/NanumBarunGothic.html') format('woff2'),
+        url('../fonts/NanumBarunGothic.woff2') format('woff2'),
         url('../fonts/NanumBarunGothic.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -33,7 +33,7 @@
     font-family: 'YGO 520';
     src: url('../fonts/YGO520.eot');
     src: url('../fonts/YGO520.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/YGO520.html') format('woff2'),
+        url('../fonts/YGO520.woff2') format('woff2'),
         url('../fonts/YGO520.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -43,7 +43,7 @@
     font-family: 'YGO 540';
     src: url('../fonts/YGO540.eot');
     src: url('../fonts/YGO540.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/YGO540.html') format('woff2'),
+        url('../fonts/YGO540.woff2') format('woff2'),
         url('../fonts/YGO540.woff') format('woff');
     font-weight: normal;
     font-style: normal;
