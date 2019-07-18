@@ -494,22 +494,31 @@ footer .copyright {
     .hamburger span:nth-of-type(2){
         top:49%;
     }
-	header .call {
-		left: 100px;
-		width: 52px;
-		height: 52px;
-	}
-    header .kakaotalk {
-        margin-right: 100px;
-        top: -50px;
-        width: 60px;
-        height: 80px;
+    header .call {
+        position: absolute;
+        left: 100px;
+        margin-top: -26px;
+        width: 52px;
+        height: 52px;
+        background: url(../images/call.png) 0 0/contain no-repeat;
     }
+
+    header .kakaotalk {
+        position: absolute;
+        right: 100px;
+        margin-top: -25px;
+        width: 50px;
+        height: 50px;
+        background: url(../images/kakaotalk.png) 0 0/contain no-repeat;
+    }
+
     header .reservation {
-        margin-right: 10px;
-        top: -130px;
-        width: 60px;
-        height: 60px;
+        position: absolute;
+        right: 20px;
+        margin-top: -25px;
+        width: 50px;
+        height: 50px;
+        background: url(../images/reservation.png) 0 0/contain no-repeat;
     }
 
 	/* nav */
@@ -552,16 +561,24 @@ footer .copyright {
 .swiper-container {
     top: 10px;
     width: 100%;
-    height: 350px;
+    height: 450px;
 }
 
 .swiper-contents {
     text-align: left;
     align-items: center;
     margin: 10px 10px 10px 10px;
+    height: 400px;
+    overflow: hidden;
 }
 
 .swiper-slide img {
     max-width: 100%;
     margin-bottom: 10px;
+}
+
+.blog-information {
+    text-align: center;
+    height: 30px;
+    overflow: hidden;
 }
