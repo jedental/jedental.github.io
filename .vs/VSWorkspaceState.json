@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\layouts\\css",
-    "\\layouts\\js",
     "\\m",
     "\\m\\layouts",
     "\\m\\layouts\\css"
   ],
-  "SelectedNode": "\\m\\interior.html",
+  "SelectedNode": "\\m\\index.html",
   "PreviewInSolutionExplorer": false
 }
