@@ -3,8 +3,9 @@
     "",
     "\\m",
     "\\m\\layouts",
-    "\\m\\layouts\\css"
+    "\\m\\layouts\\css",
+    "\\m\\layouts\\images"
   ],
-  "SelectedNode": "\\m\\index.html",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
